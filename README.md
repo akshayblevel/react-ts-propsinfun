@@ -1,7 +1,5 @@
 # react-ts-propsinfun
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-ts-lamx8m)
-
 ```js
 import React from 'react';
 
